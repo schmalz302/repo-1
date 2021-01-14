@@ -1,0 +1,5 @@
+В ветке demo и master совпадают текстовые файлы hometask.txt.
+В удаленном репозитории в ветке мастер 3 комита:
+1.fix readme
+2.README added
+3.init
